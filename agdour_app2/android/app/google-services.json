@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "19944139639",
+    "firebase_url": "https://agdour-3a8b9.firebaseio.com",
+    "project_id": "agdour-3a8b9",
+    "storage_bucket": "agdour-3a8b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19944139639:android:7ffc3e6c2083fe579e4f72",
+        "android_client_info": {
+          "package_name": "com.example.agdourapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19944139639-patu734867e7fgsdvnj4klgmlj8lv4b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbO6k1sJQ7Bh77oN8QW2oOVTdz_k5EJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19944139639-patu734867e7fgsdvnj4klgmlj8lv4b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19944139639:android:ae1025ea3ea3451b9e4f72",
+        "android_client_info": {
+          "package_name": "com.project.agdour_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19944139639-patu734867e7fgsdvnj4klgmlj8lv4b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbO6k1sJQ7Bh77oN8QW2oOVTdz_k5EJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19944139639-patu734867e7fgsdvnj4klgmlj8lv4b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
